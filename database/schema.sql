@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ThecodeAlert_db;
+CREATE DATABASE ThecodeAlert_db;

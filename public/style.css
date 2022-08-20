@@ -1,0 +1,12 @@
+
+.button {
+    font-size: 100%;
+    padding: 0;
+    cursor:grab;
+    color: #a9afb2;
+  }
+  
+  .button:hover {
+    color: #838687;
+    text-decoration: dashed;
+  }
